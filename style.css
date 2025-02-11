@@ -100,3 +100,10 @@ body {
 }
 
 
+header{
+    text-align: center;
+    height: 30px;
+    background-color: #d32f2f;
+    width: 100%;
+    color: white;
+}
